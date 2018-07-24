@@ -8,4 +8,8 @@ public class Testing {
 	 System.out.println("Hello");
 	 System.out.println("Hello12121212");
   }
+  @Test
+  public void Login() { 
+	 System.out.println("Login test case ");	 
+  }
 }
